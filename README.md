@@ -1,7 +1,7 @@
 # Handle-imbalanced-data
 Get familiar with various techniques to handle the imbalanced class.
 
-We have implemented the following imbalance data handeling techniques:
+Here's the following imbalance data handeling techniques:
 
 1. Random Under-Sampling
 2. Random Over-Sampling
